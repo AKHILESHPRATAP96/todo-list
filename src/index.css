@@ -1,4 +1,6 @@
 body {
+  background-image: url(./phil-desforges-n9hlFP3ObHo-unsplash.jpg) ;
+  background-position:inherit;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -13,4 +15,20 @@ code {
 }
 h1{
   text-align: center;
+}
+*{
+  color: whitesmoke;
+  font-weight: bolder;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#div2{
+  margin-top: 250px;
+  
+  border: solid green;
+}
+#b{
+  height: 140px;
+  width: 100px;
+  padding-left: 400px;
+ 
 }

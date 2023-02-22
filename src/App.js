@@ -1,5 +1,6 @@
 import './App.css';
 import TODOS from './component/TODOS';
+import Footer from './footer';
 
 function App() {
   return (
@@ -8,6 +9,11 @@ function App() {
     <h1 style={{color:'yellow'}}>LIST</h1>
     
      <TODOS></TODOS>
+    <div id='div2'>
+    <Footer></Footer>
+  
+    </div>
+     
    </div>
   );
 }
